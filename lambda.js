@@ -11,7 +11,7 @@ const banks = {
   vcb: {
     name: 'Vietcombank HCMC',
     account: {
-      ame: 'Expiup Inc',
+      name: 'Expiup Inc',
       number: '6666-7777-8888-9900'
     }
   }
