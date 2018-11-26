@@ -21,12 +21,12 @@
     "@sglearn/coursedb-dynamodb-driver": "^1.0.1",
     "@sglearn/enroll-server": "^1.0.1",
     "@sglearn/enrolldb-dynamodb-driver": "^1.0.0",
-    "@sglearn/invoicedb-dynamodb-driver": "^1.0.0",
-    "@sglearn/purchase-server": "^1.1.8",
-    "aws-sdk": "^2.341.0",
+    "@sglearn/invoicedb-dynamodb-driver": "^1.0.1",
+    "@sglearn/purchase-server": "^1.1.9",
+    "aws-sdk": "^2.362.0",
     "aws-serverless-express": "^3.3.5",
     "cookie-parser": "^1.4.3",
-    "cors": "^2.8.4",
+    "cors": "^2.8.5",
     "database-abstractor": "^1.0.0",
     "express": "^4.16.4"
   }
